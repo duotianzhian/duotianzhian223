@@ -5,4 +5,5 @@ package com.msb.g;
  */
 public class Preson {
     private  int age;
+    private String name;
 }
